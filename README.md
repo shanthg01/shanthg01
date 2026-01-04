@@ -2,7 +2,7 @@
 
 I am a data engineer, architect, and scientist who loves building impactful solutions. I specialize in designing and implementing end-to-end data pipelines and applying machine learning to solve real-world problems. I'm passionate about turning data into actionable insights and building scalable systems.
 
-I'm particularly excited about emerging areas in ML including quantum machine learning, multimodal generative AI, and federated learning — technologies that are reshaping how we approach complex data challenges and privacy-preserving AI at scale.
+I'm particularly excited about emerging areas in ML including quantum machine learning, multimodal generative AI, and federated learning.
 
 ## 🚀 Featured Projects
 
