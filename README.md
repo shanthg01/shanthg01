@@ -11,7 +11,7 @@ I'm particularly excited about emerging areas in ML including quantum machine le
 
 Text-to-sound model that transforms an input audio clip into a modified version consistent with a natural language description. It aligns text semantics with audio timbral archetypes, bridging subjective descriptors (“warm,” “crunchy”) and objective acoustic features (spectral centroid, harmonic ratio, MFCCs).
 
-### Automated Data Product Infra Deployment (https://github.com/shanthg01/Mesh.dbt)(https://github.com/shanthg01/Mesh.Snowflake)(https://github.com/shanthg01/Mesh.GitHub)
+### Automated Data Product Infra Deployment (https://github.com/shanthg01/Mesh.dbt) (https://github.com/shanthg01/Mesh.Snowflake) (https://github.com/shanthg01/Mesh.GitHub)
 **Role**: Data Engineer | **Tech**: Python, Javascript, GitHub Actions, Snowflake, dbt
 
 Automatically set up data products ecosystem across transformation platform, cloud data warehouse, and code repository. Result: developers will be equipped with necessary working repository with proper access restrictions and corresponding dbt project initialized, snowflake objects (databases, schemas, roles) will be initialized and provisioned with proper RBAC policies enforced. Use by injecting environment and data product name parameters. 
