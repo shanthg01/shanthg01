@@ -6,6 +6,11 @@ I'm particularly excited about emerging areas in ML including quantum machine le
 
 ## 🚀 Featured Projects
 
+### PortalPoint (https://github.com/shanthg01/PortalPoint)
+**Role**: Lead Architect & ML Engineer | Tech: Python, FastAPI, PostgreSQL (AWS RDS), React, Vite, Redis, Docker, MLflow, AWS (ECS Fargate, S3, CloudFront)
+
+Data-driven transfer portal scouting platform for college basketball programs to quantitatively evaluate 2,500+ portal entrants during tight evaluation windows. Features a 2-stage recommendation engine and multi-dimensional fit scoring—Scheme Fit, Gap Matching, Role Fit, and Program Fit—to generate per-program player recommendation feeds.
+
 ### LSTMABAR (https://github.com/shanthg01/LSTMABAR)
 **Role**: ML Engineer | **Tech**: Python, BERT, AST, ResNet, Quantum Attention
 
@@ -18,16 +23,17 @@ Automatically set up data products ecosystem across transformation platform, clo
 
 ## 💼 Technical Skills
 
-**Languages**: Python, SQL, Java, JavaScript, R  
-**Data Engineering**: PySpark, Airflow, dbt, Snowflake, PostgreSQL  
-**Cloud & Infrastructure**: AWS, Azure, Docker, Git  
-**Specialties**: End-to-end data pipeline design, ML model development & deployment, data architecture
+- Languages: Python, SQL (Snowflake/PostgreSQL), Bash, PyTorch, JavaScript, Java, R
+- AI & Agentic Systems: Multi-Agent Frameworks, Spec-Driven Development, LLM Evals, RAG Systems, DSPy, Function Calling, Model Context Protocol (MCP), Multimodal ML
+- Data & Analytics Engineering:** Snowflake, dbt, Apache Spark / PySpark, PostgreSQL, Airflow, Data Vault / Dimensional Modeling, ETL/ELT Pipelines
+- Cloud & Infrastructure: AWS (ECS Fargate, S3, RDS, CloudFront), Azure, Docker, Git, CI/CD, Pytest, MLflow, Vector Databases
 
 ## 🎯 What I Do Best
 
-- Design and build scalable data pipelines from ingestion to analytics
-- Architect cloud-based data solutions that drive business decisions
-- Develop and deploy machine learning models that create measurable impact
+- Design & Build Scalable Data Platforms: Architect cloud-native data pipelines and warehouse solutions (Snowflake, dbt, PostgreSQL) that transform complex, multi-source ingestion feeds into high-performance analytics engines.
+- Production-Grade Agentic & RAG Architectures: Engineer multi-tiered agent systems with deterministic thresholding, dynamic evaluation loops, explicit tool-use verification, and spec-driven AI workflows.
+- Deploy Impactful Machine Learning Systems: Develop and deploy custom ML models, state-space projections, and multi-dimensional scoring engines that turn ambiguous business domains into actionable insights.
+- Bridge Technical Strategy & Execution: Align cross-functional teams by breaking complex ideas down to fundamental details, uncovering hidden constraints, and de-escalating architectural friction through objective micro-POCs.
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/shanth-gopalswamy-1450b51b8/
