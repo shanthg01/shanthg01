@@ -6,6 +6,16 @@ I'm particularly excited about emerging areas in ML including quantum machine le
 
 ## 🚀 Featured Projects
 
+### GridPulse (https://github.com/shanthg01/gridpulse-multiagent)
+**Role**: Lead Architect & ML Engineer | **Tech**: Python, Multi-Agent RAG, LLM Orchestration, Synthetic Data Generation, Time-Series Analysis
+
+Multi-agent RAG system and synthetic data engine for regulatory policy and time-series grid energy analysis. Specialized agents retrieve and ground policy text, generate and validate synthetic load/generation time-series, and synthesize both into analyst-ready answers.
+
+### PharmaSentinel (https://github.com/shanthg01/pharmasentinel-text2sql)
+**Role**: Lead Architect & ML Engineer | **Tech**: Python, Text-to-SQL, LLM Guardrails, OpenFDA API, ClinicalTrials.gov API
+
+Deterministic, multi-tier Text-to-SQL engine and guardrailed query platform for OpenFDA and ClinicalTrials.gov data. Validates generated queries against an allow-listed schema and query shape before execution, keeping results reproducible and auditable rather than merely plausible.
+
 ### PortalPoint (https://github.com/shanthg01/PortalPoint)
 **Role**: Lead Architect & ML Engineer | Tech: Python, FastAPI, PostgreSQL (AWS RDS), React, Vite, Redis, Docker, MLflow, AWS (ECS Fargate, S3, CloudFront)
 
